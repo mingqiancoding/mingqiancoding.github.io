@@ -9,7 +9,7 @@
   <meta name="author" content="Ming Qian">
 
   
-  <meta name="description" content=" Blog Archive Recent Posts ">
+  <meta name="description" content=" Blog Archive Recent Posts GitHub Repos Status updating... @mingqiancoding on GitHub ">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -38,7 +38,7 @@
   <header role="banner"><hgroup>
   <h1><a href="/">Ming Qian Coding</a></h1>
   
-    <h2>宠辱不惊，看庭前花开花落；去留无意，望天上云卷云舒评价。</h2>
+    <h2>宠辱不惊，看庭前花开花落；去留无意，望天上云卷云舒。</h2>
   
 </hgroup>
 
@@ -87,6 +87,35 @@
   <ul id="recent_posts">
     
   </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/mingqiancoding">@mingqiancoding</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'mingqiancoding',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
 </section>
 
 
