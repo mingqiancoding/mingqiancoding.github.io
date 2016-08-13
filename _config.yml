@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://mingqiancoding.github.io
+title: Ming Qian Coding 
+subtitle: 宠辱不惊，看庭前花开花落；去留无意，望天上云卷云舒。 
+author: Ming Qian 
 simple_search: https://www.google.com/search
 description:
 
@@ -99,3 +99,4 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+#facebook_like: true 
