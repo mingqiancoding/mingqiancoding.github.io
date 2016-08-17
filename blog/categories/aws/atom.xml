@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Ming Qian Coding]]></title>
-  <link href="http://mingqiancoding.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Aws | Ming Qian Coding]]></title>
+  <link href="http://mingqiancoding.github.io/blog/categories/aws/atom.xml" rel="self"/>
   <link href="http://mingqiancoding.github.io/"/>
   <updated>2016-08-17T19:37:09+00:00</updated>
   <id>http://mingqiancoding.github.io/</id>
@@ -18,7 +18,7 @@
     <link href="http://mingqiancoding.github.io/blog/2016/08/17/test-first-post/"/>
     <updated>2016-08-17T17:27:47+00:00</updated>
     <id>http://mingqiancoding.github.io/blog/2016/08/17/test-first-post</id>
-    <content type="html"><![CDATA[<p> <script type="text/javascript" src="http://mingqiancoding.github.io/javascripts/myjs/myjs001.js" ></script></p>
+    <content type="html"><![CDATA[<p></p>
 ]]></content>
   </entry>
   
