@@ -1,22 +1,25 @@
 ---
 layout: post
-title: "test first post"
+title: "TEST d3js radar chart"
 date: 2016-08-17 17:27:47 +0000
 comments: true
 categories: 
 - IaaS
 - AWS
 - Cloud Computing
-custom_js:
+third_party_js:
 - d3js
-my_js: true
+- radarchartjs
+custom_js: true
 ---
 
 
 
 
-{% if page.my_js %}
- <script type="text/javascript" src="/javascripts/myjs/myjs001.js" ></script>
+{% if page.custom_js %}
+ <script type="text/javascript" src="/javascripts/custom/2016-08-17-test-first-post.js" ></script>
 {% endif %}
 
-   
+
+<h2>Simple single chart drawing</h2>
+<div class="chart-container"></div>
