@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Aws | Ming Qian Coding]]></title>
   <link href="http://mingqiancoding.github.io/blog/categories/aws/atom.xml" rel="self"/>
   <link href="http://mingqiancoding.github.io/"/>
-  <updated>2016-08-17T19:37:09+00:00</updated>
+  <updated>2016-08-17T23:50:11+00:00</updated>
   <id>http://mingqiancoding.github.io/</id>
   <author>
     <name><![CDATA[Ming Qian]]></name>
@@ -14,11 +14,17 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Test First Post]]></title>
+    <title type="html"><![CDATA[TEST D3js Radar Chart]]></title>
     <link href="http://mingqiancoding.github.io/blog/2016/08/17/test-first-post/"/>
     <updated>2016-08-17T17:27:47+00:00</updated>
     <id>http://mingqiancoding.github.io/blog/2016/08/17/test-first-post</id>
     <content type="html"><![CDATA[<p></p>
+
+<h2>Simple single chart drawing</h2>
+
+
+<div class="chart-container"></div>
+
 ]]></content>
   </entry>
   
