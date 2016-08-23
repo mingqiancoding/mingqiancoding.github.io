@@ -4,7 +4,7 @@
   <title><![CDATA[Ming Qian Coding]]></title>
   <link href="http://mingqiancoding.github.io/atom.xml" rel="self"/>
   <link href="http://mingqiancoding.github.io/"/>
-  <updated>2016-08-17T23:58:50+00:00</updated>
+  <updated>2016-08-23T23:22:09+00:00</updated>
   <id>http://mingqiancoding.github.io/</id>
   <author>
     <name><![CDATA[Ming Qian]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Second Post Test]]></title>
+    <link href="http://mingqiancoding.github.io/blog/2016/08/18/second-post-test/"/>
+    <updated>2016-08-18T23:04:47+00:00</updated>
+    <id>http://mingqiancoding.github.io/blog/2016/08/18/second-post-test</id>
+    <content type="html"><![CDATA[<p><svg width="50" height="50">
+  <rect x="0" y="0" width="50" height="50" fill="green" />
+</svg></p>
+
+<p><svg width="50" height="50">
+  <circle cx="25" cy="25" r="25" fill="purple" />
+</svg></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[TEST D3js Radar Chart]]></title>
